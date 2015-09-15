@@ -1,0 +1,129 @@
+#content {
+	width: 540px;
+	margin: 0 auto
+}
+
+#content h1 {
+	display: block;
+	font-size: 20px;
+	margin: 5px 0 15px 0;
+}
+
+.kandydat_show table td {
+	background: #efffe0;
+}
+
+#sf_admin_content, #sf_admin_content table {
+	width: 540px;
+}
+
+.sf_admin_list th {
+	background-color: #D4D5AA;
+}
+
+.odd {
+	background-color: #efffe0;
+}
+
+ul.sf_admin_td_actions , ul.sf_admin_actions{
+	list-style: none;
+}
+
+#sf_admin_container ul li a
+{
+  padding-left: 20px;
+  background: url(../images/default.png) no-repeat 0 0;
+}
+
+#sf_admin_container ul li.sf_admin_action_new a
+{
+  background: url(../images/new.png) no-repeat 0 0;
+}
+
+#sf_admin_container ul li.sf_admin_action_delete a
+{
+  background: url(../images/delete.png) no-repeat 0 0;
+}
+
+#sf_admin_container ul li.sf_admin_action_list a
+{
+  background: url(../images/list.png) no-repeat 0 0;
+}
+
+#sf_admin_container ul li.sf_admin_action_edit a
+{
+  background: url(../images/edit.png) no-repeat 0 0;
+}
+
+#sf_admin_container .notice
+{
+  margin: 4px 0;
+  padding: 4px 4px 4px 30px;
+  background: url(../images/tick.png) no-repeat 10px 4px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: #ffc;
+}
+
+#sf_admin_container .error
+{
+  margin: 4px 0;
+  padding: 4px 4px 4px 30px;
+  background: url(../images/error.png) no-repeat 10px 4px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: #f33;
+  color: #fff;
+}
+
+#sf_admin_container ul li a {
+	text-decoration: none;
+}
+
+#sf_admin_container ul li a:hover {
+	color: #333;
+}
+
+#sf_admin_container th > a, a:visited {
+	text-decoration: none;
+	color: #333;
+} 
+#sf_admin_container th a:hover {
+	color: #080;
+} 
+
+.sf_admin_actions {
+	margin: 10px 0; 
+}
+
+#sf_admin_content .sf_admin_list > table {
+	width: 710px;
+}
+
+#content, #sf_admin_content {
+	width: 650px;
+}
+
+#sf_admin_bar {
+	background-color: #efe;
+	line-height: 30px;
+}
+
+#sf_admin_bar table {
+	width: 400px;
+	margin: 5px auto;
+}
+
+#sf_admin_bar label {
+	width: 150px;	
+	display: block;
+}
+
+#sf_admin_bar select {
+	width: 240px;	
+	}
+	
+#sf_admin_bar tfoot {
+	text-align: center;
+}
+	

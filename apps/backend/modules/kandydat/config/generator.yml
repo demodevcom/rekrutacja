@@ -1,0 +1,46 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Kandydat
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          kandydat_kandydat
+    with_doctrine_route:     1
+
+    config:
+      actions:       
+      fields:
+        id: { label: ID }
+        imiona: { label: Imiona }
+        nazwisko: { label: Nazwisko }
+        kierunek: { label: Kierunek }
+        studia_typ: { label: Typ studiów }
+        specjalnosc: { label: Specjalność }
+        created_at: { label: Utworzono }
+        dokumenty_dotarly: { label: Dokumenty }
+        przelew_zaksiegowany: { label: Przelew }        
+      list:
+        title: Panel Administracyjny
+        display:  [id, imiona, nazwisko, kierunek, specjalnosc, stacjonarne, studia_typ, created_at, dokumenty_dotarly, przelew_zaksiegowany]
+        max_per_page: 10
+        object_actions:
+          _edit: { label: Edytuj }
+          _delete: { label: Usuń } 
+          change_pass: { label: Zmień hasło }
+          change_image: { label: Zmień zdjęcie }
+        batch_actions:
+          _delete: { label: Usuń wybrane }
+        actions: {}
+        
+      filter:
+#        class: false
+        display: [ kierunek, specjalnosc, stacjonarne, studia_typ ]
+      form:
+        class: BackendKandydatForm
+      edit:
+        title: Edycja kandydata
+      new:
+        title: Nowy kandydat

@@ -1,0 +1,123 @@
+nie dotyczy
+Będzin 45-500 ul. Kościuszki 32
+Biała Podlaska 21-500 ul. 1000-lecia 20
+Białystok 15-428 ul. Lipowa 35
+Bielsk Podlaski 17-100 ul. Dubiażyńska 2
+Bielsko-Biała 43-300 ul. Piastowska 14
+Bochnia 32-700 ul. Św. Leonarda 22
+Bolesławiec 59-700 ul. B. Chrobrego 5
+Brodnica 87-300 ul. Królowej Jadwigi 4
+Brzeg 49-300 ul. B. Chrobrego 21
+Busko Zdrój 28-100 ul. Bohaterów Warszawy 10
+Bydgoszcz 85-915 ul. Szubińska 1
+Chełm 22-100 ul. Koszarowa 1B
+Chorzów 41-500 ul. 75 Pułku Piechoty 3
+Ciechanów 06-400 ul. Orylska 6
+Częstochowa 42-200 ul. Legionów 20
+Człuchów 77-300 ul. Wojska Polskiego 11
+Elbląg 82-300 ul. Królewiecka 167A
+Ełk 19-300 ul. Mickiewicza 40
+Garwolin 08-400 ul. Kościuszki 28
+Gdańsk-1 80-018 ul. Trakt św. Wojciecha 253
+Gdańsk-2 80-259 ul. Obywatelska 2
+Gdynia 81-912 ul. Pułaskiego 7
+Giżycko 11-500 ul. Moniuszki 7
+Gliwice 44-100 ul. Zawiszy Czarnego 7
+Głogów 67-200 ul. Wojska Polskiego 58
+Gniezno 62-200 ul. Pocztowa 9
+Gorzów Wielkopolski 66-400 ul. Kosynierów Gdyńskich 21
+Grójec 05-600 ul. Piłsudskiego 58
+Grudziądz 86-300 ul. Legionów 48
+Gryfice 72-300 ul. Górska 2
+Inowrocław 88-100 ul. Dworcowa 27
+Jarosław 37-500 ul. Głęboka 4
+Jasło 38-300 ul. Kościuszki 24
+Jelenia Góra 58-500 ul. Obrońców Pokoju 26
+Kalisz 62-800 pl. Św. Józefa 5
+Katowice 40-028 ul. Francuska 30
+Kędzierzyn-Koźle 47-200 ul. Łukasiewicza 11
+Kielce Bukówka 25-205 ul. Wojska Polskiego 250
+Kielce Śródmieście 25-953 ul. Wesoła 29
+Kłodzko 57-300 ul. Bohaterów Getta 7
+Kołobrzeg 78-100 ul. Jedności Narodowej 9
+Konin 62-510 ul. Hurtowa 1
+Koszalin 75-901 ul. Zwycięstwa 202A
+Kozienice 26-900 ul. Radomska 36
+Kraków Krowodrza 30-901 ul. Rydla 19
+Kraków Nowa Huta 30-901 ul. Rakowicka 22
+Kraków Podgórze 31-069 ul. Koletek 10
+Legnica 59-220 ul. Partyzantów 22
+Leszno 64-100 ul. Zamenhoffa 32
+Lidzbark Warmiński 11-100 ul. Spółdzielców 24
+Lublin-1 20-043 ul. Spadochroniarzy 5
+Lublin-2 20-043 ul. Aleje Racławickie 44
+Lubliniec 42-700 ul. ZHP 1
+Łomża 18-400 ul. Polowa 12
+Łódź-1 90-646 ul. 6 Sierpnia 104
+Łódź-2 90-950 ul. A. Struga 65
+Malbork 82-200 pl. 3 Maja 4
+Mielec 39-300 ul. Legionów 25
+Mińsk Mazowiecki 05-300 ul. Piękna 3
+Mysłowice 41-400 ul. Starokościelna 2
+Nisko 37-500 ul. Kościuszki 2
+Nowy Dwór Mazowiecki 05-100 ul. Paderewskiego 6/11
+Nowy Sącz 33-200 ul. Czarnieckiego 13
+Nowy Targ 34-400 Osiedle Bór 10
+Nowy Tomyśl 64-300 ul. 3 Stycznia 3
+Nysa 48-300 ul. Marcinkowskiego 4
+Olsztyn 10-702 ul. Warszawska 96
+Opole 45-360 ul. Plebiscytowa 5
+Ostrołęka 07-409 ul. Sienkiewicza 61
+Ostróda 14-100 ul. Czarnieckiego 28
+Ostrów Wielkopolski 63-400 ul. Wojska Polskiego 15
+Oświęcim 32-600 ul. Orzeszkowej 9
+Piła 64-920 ul. Kossaka 16
+Piotrków Trybunalski 97-300 ul. Dąbrowskiego 14
+Płock 09-400 ul. Kilińskiego 12
+Poznań-1 60-959 ul. Rolna 51/53
+Poznań-2 60-811 ul. Bukowska 34A
+Poznań-3 60-959 ul. Polna 39
+Puławy 24-100 ul. Piłsudskiego 93
+Radom 26-600 ul. 1905 roku 30
+Rybnik 44-200 ul. Piłsudskiego 2
+Rzeszów 35-205 ul. Konopnickiej 5
+Sandomierz 27-600 ul. Puławiaków 12
+Sanok 38-500 ul. Przemyska 1
+Siedlce 08-110 ul. Wałowa 1
+Sieradz 98-200 ul. Pułaskiego 1
+Skierniewice 96-100 ul. Batorego 64A
+Słupsk 76-200 ul. Obrońców Westerplatte 8
+Starachowice 27-200 ul. Mrozowskiego 9
+Stargard Szczeciński 73-110 ul. Czarnieckiego 31
+Starogard Gdański 83-200 ul. Sikorskiego 18
+Sulęcin 69-200 ul. Emilii Plater 5
+Suwałki 16-400 ul. Pułaskiego 24
+Szczecin 70-241 ul. Kopernika 17
+Szczecin Podjuchy 70-727 ul. Metalowa 42
+Szczecinek 78-400 ul. Kościuszki 55
+Świdnica 58-100 pl. Grunwaldzki 2
+Świecie 86-100 ul. Kościuszki 5A
+Świnoujście 72-600 ul. Piłsudskiego 24
+Tarnowskie Góry 42-600 ul. Mickiewicza 18
+Tarnów 33-100 ul. Dąbrowskiego 11
+Tomaszów Mazowiecki 97-200 ul. Polskiej Organizacji Wojskowej 9
+Toruń 87-100 ul. Wały gen. Sikorskiego 21
+Turek 62-700 ul. Szkolna 4
+Tychy 43-100 ul. Cyganerii 51
+Warszawa Mokotów 02-515 ul. Puławska 4/6
+Warszawa Ochota 02-313 ul. Sękocińska 8
+Warszawa Praga Płd. 03-419 ul. Szwedzka 2/4
+Warszawa Praga Płn. 03-473 ul. Brechta 16
+Warszawa Śródmieście 02-008 ul. Koszykowa 82
+Warszawa Żoliborz 01-558 ul. Mierosławskiego 22
+Wejherowo 84-200 ul. Sobieskiego 227
+Włocławek 87-800 ul. Okrężna 25A
+Wrocław-1 50-984 ul. Gajowicka 118
+Wrocław-3 51-168 ul. Sołtysowicka 23
+Wyszków 07-200 ul. Serocka 3
+Zambrów 18-300 ul. Magazynowa 9
+Zamość 22-400 ul. Piłsudskiego 36
+Zgierz 95-100 ul. Długa 79
+Zielona Góra 65-147 ul. Urszuli 3
+Żagań 68-100 ul. 1 Maja 24
+Żywiec 43-300 ul. Zamkowa 10

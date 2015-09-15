@@ -1,0 +1,21 @@
+kandydat_kandydat:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Kandydat
+    module:               kandydat
+    prefix_path:          kandydat
+    object_actions:       { changePass: put, changeImage: put }
+    column:               id
+    with_wildcard_routes: true
+
+# default rules
+homepage:
+  url:   /
+  param: { module: kandydat, action: welcome }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

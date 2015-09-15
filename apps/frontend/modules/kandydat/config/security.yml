@@ -1,0 +1,10 @@
+default:
+  is_secure: on
+new:
+  is_secure: off
+create:
+  is_secure: off
+remind1:
+  is_secure: off
+remind2:
+  is_secure: off    

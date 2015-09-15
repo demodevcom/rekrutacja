@@ -1,0 +1,110 @@
+actAs: [Timestampable]
+
+Admin:
+  tableName: admin
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      sequence: admin_id
+    login:
+      type: string(20)
+      notnull: true
+    haslo:
+      type: string(32)
+      notnull: true
+    created_at: timestamp(25)
+    updated_at: timestamp(25)
+
+Kandydat:
+  tableName: kandydat
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      sequence: kandydat_id
+    imiona:
+      type: string(80)
+      notnull: true
+    nazwisko:
+      type: string(80)
+      notnull: true
+    plec:
+      type: boolean(1)
+      notnull: true
+    kierunek:
+      type: string(30)
+      notnull: true
+    stacjonarne:
+      type: boolean(1)
+      default: 'true'
+    mgr:
+      type: boolean(1)
+      default: 'false'
+    urodzenie_miejsce:
+      type: string(40)
+      notnull: true
+    matka_imie:
+      type: string(40)
+      notnull: true
+    ojciec_imie:
+      type: string(40)
+      notnull: true
+    narodowosc:
+      type: string(40)
+      notnull: true
+    obywatelstwo:
+      type: string(40)
+      notnull: true
+    pesel:
+      type: string(11)
+      notnull: true
+    nip:
+      type: string(20)
+      notnull: true
+    zameldowanie_ulica:
+      type: string(45)
+      notnull: false
+    zameldowanie_dom_nr:
+      type: string(6)
+      notnull: true
+    zameldowanie_kod:
+      type: string(6)
+      notnull: true
+    stosunek_do_sluzby_wojskowej:
+      type: string(20)
+      notnull: true
+    niepelnosprawny:
+      type: boolean(1)
+      default: 'false'
+    login:
+      type: string(20)
+      notnull: true
+    haslo:
+      type: string(32)
+      notnull: true
+    specjalnosc: string(30)
+    jezyk: string(20)
+    jezyk2: string(20)
+    zameldowanie_mieszkanie_nr: string(6)
+    korespondencja_ulica: string(45)
+    korespondencja_dom_nr: string(6)
+    korespondencja_mieszkanie_nr: string(6)
+    korespondencja_kod: string(6)
+    ksiazeczka_wojskowa_nr: string(20)
+    szkola_srednia_rok_ukonczenia: string(4)
+    inne_studia: string(255)
+    plywanie_grupa: string(20)
+    skad_wiem: string(40)
+    skonczone_studia: string(80)
+    skonczone_studia_rok_ukonczenia: string(4)
+    zdjecie: string(255)
+    szkola_komentarz: string(255)
+    przelew_zaksiegowany:
+       type: boolean(1)
+       default: 'false'
+    dokumenty_dotarly:
+       type: boolean(1)
+       default: 'false'       
+    created_at: timestamp(25)
+    updated_at: timestamp(25)

@@ -1,0 +1,78 @@
+@CHARSET "UTF-8";
+.form_nav {
+	clear: both;
+}
+
+.form_nav a, .form_nav a:active, .form_nav a:visited, .form_nav a:link {
+	font-size: 14px;
+	color: #0B55C4;
+	text-decoration: none;
+	padding: 3px 10px;
+	float: left;
+	margin: 0 10px 0 0; 
+}
+
+.form_nav a:hover {
+	color: #333;
+}
+	
+
+#kandydat_form {
+	width: 710px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#kandydat_form table tr > td, th {
+	padding: 2px 5px;
+}
+
+#kandydat_form ul.radio_list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#kandydat_form th {
+	width: 200px;
+	display: block;
+	background-color: #D4D5AA;
+}
+
+#kandydat_form td {
+	width: 350px;
+}
+	
+#kandydat_form input[type="text"], #kandydat_form input[type="password"] {
+	width: 240px;
+	border: 1px solid #aaa;
+}
+
+#kandydat_form input[type="submit"] {
+	width: 100px;
+	padding: 5px;
+	margin: 5px;
+	float: right;
+}
+
+#kandydat_form ul.error_list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.form_error {
+	color: #e20;
+	font-style: italic;
+	font-size: 11px;
+}
+
+#kandydat_form input.input_error {
+	width: 240px;
+	border: 1px solid #e20;
+}
+
+#kandydat_form input[readonly="readonly"] {
+	background-color: #eee;
+	color: #999;
+}

@@ -1,0 +1,19 @@
+login:
+  url:   /login
+  param: { module: login, action: index }
+
+logout:
+  url:   /logout
+  param: { module: login, action: logout }
+  
+# default rules
+homepage:
+  url:   /
+  param: { module: kandydat, action: new }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

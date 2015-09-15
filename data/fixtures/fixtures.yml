@@ -1,0 +1,20 @@
+# # Populate this file with data to be loaded by your ORM's *:data-load task.
+# # You can create multiple files in this directory (i.e. 010_users.yml,
+# # 020_articles.yml, etc) which will be loaded in alphabetical order.
+# # 
+# # See documentation for your ORM's *:data-load task for more information.
+
+# blablabla - teraz to moj plik ;] 
+# INSERT INTO sf_guard_user (id, username, algorithm, salt, password, is_active, is_super_admin, last_login, created_at, updated_at) 
+# VALUES (1, 'arch', 'sha1', '7b6b1d79bc369f5bbd07c4962858da45', 'e4f52e5ad49a878a44032e6bd7d38cd39bfdc301', true, true, NULL, '2009-07-02 10:50:10', '2009-07-02 10:50:14');
+kandydat:
+  arch:
+    username: arch
+    algorithm: sha1
+    salt: 7b6b1d79bc369f5bbd07c4962858da45
+    password: e4f52e5ad49a878a44032e6bd7d38cd39bfdc301
+    is_active: true
+    is_super_admin: true
+    last_login: NULL
+    created_at: 2009-07-02 10:50:10
+    updated_at: 2009-07-02 10:50:14

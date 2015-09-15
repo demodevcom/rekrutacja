@@ -1,0 +1,148 @@
+actAs: [Timestampable]
+
+Admin:
+  tableName: admin
+  columns:
+    id:
+      type: integer(8)
+      unsigned: 1
+      primary: true
+      autoincrement: true
+    login:
+      type: string(20)
+      default: ''
+      notnull: true
+    haslo:
+      type: string(32)
+      default: ''
+      notnull: true
+    created_at:
+      type: timestamp(25)
+      notnull: true
+    updated_at:
+      type: timestamp(25)
+      default: '0000-00-00 00:00:00'
+      notnull: true
+Kandydat:
+  tableName: kandydat
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      autoincrement: true
+    imiona:
+      type: string(80)
+      notnull: true
+    nazwisko:
+      type: string(80)
+      notnull: true
+    plec:
+      type: integer(1)
+      notnull: true
+    kierunek:
+      type: string(30)
+      notnull: true
+    stacjonarne:
+      type: integer(1)
+      default: '1'
+    studia_typ:
+      type: string(15)
+      default: 'inz'
+      notnull: true
+    urodzenie_miejsce:
+      type: string(40)
+      notnull: true
+    matka_imie:
+      type: string(40)
+      default: ''
+      notnull: true
+    ojciec_imie:
+      type: string(40)
+      notnull: true
+    narodowosc:
+      type: string(40)
+      notnull: true
+    obywatelstwo:
+      type: string(40)
+      notnull: true
+    pesel:
+      type: string(11)
+      notnull: false
+    dowod_osobisty_nr:
+      type: string(10)
+      notnull: true
+    zameldowanie_dom_nr:
+      type: string(6)
+      notnull: false
+    zameldowanie_kod:
+      type: string(6)
+      notnull: false
+    stosunek_do_sluzby_wojskowej:
+      type: string(20)
+      notnull: true
+    niepelnosprawny:
+      type: boolean(1)
+      default: 0
+    login:
+      type: string(20)
+      notnull: true
+    haslo:
+      type: string(32)
+      notnull: true
+    created_at:
+      type: timestamp(25)
+      notnull: true
+    updated_at:
+      type: timestamp(25)
+      default: '0000-00-00 00:00:00'
+      notnull: true
+    zameldowanie_miasto:
+      type: string(30)
+      notnull: true
+    zameldowanie_wojewodztwo:
+      type: string(30)
+      notnull: true
+    email:
+      type: string(255)
+      notnull: true
+    telefon_nr:
+      type: string(12)
+      notnull: true
+    nip: string(20)
+    zameldowanie_ulica: string(45)
+    specjalnosc: string(60)
+    jezyk: string(20)
+    jezyk2: string(20)
+    zameldowanie_mieszkanie_nr: string(6)
+    korespondencja_ulica: string(45)
+    korespondencja_dom_nr: string(6)
+    korespondencja_mieszkanie_nr: string(6)
+    korespondencja_kod: string(6)
+    ksiazeczka_wojskowa_nr: string(20)
+    szkola_srednia_rok_ukonczenia: string(4)
+    szkola_srednia:
+       type: string(255)
+       notnull: true
+    inne_studia: string(255)
+    plywanie_grupa: string(20)
+    skad_wiem: string(40)
+    skonczone_studia: string(80)
+    skonczone_studia_rok_ukonczenia: string(4)
+    zdjecie: string(255)
+    korespondencja_miasto: string(30)
+    korespondencja_wojewodztwo: string(30)
+    mobile_nr: string(12)
+    wku_miasto: string(60)
+    szkola_komentarz: string(255)
+    przelew_zaksiegowany:
+       type: boolean(1)
+       default: 0
+    dokumenty_dotarly:
+       type: boolean(1)
+       default: 0
+    pytanie_haslo:
+       type: string(80)
+       notnull: true
+    odpowiedz_haslo:
+       type: string(25)
+       notnull: true
